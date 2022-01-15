@@ -24,3 +24,6 @@
 <div align="center">
 <a href="#"><img width="45%" src="Screenshot_20220115_201336.jpg"></a>
 <a href="#"><img width="45%" src="Screenshot_20220115_202224.jpg"></a></div>
+
+***
+<div align="left"><br> <img src="https://profile-counter.glitch.me/ravindu01manoj/count.svg" /><br>Profile Viewers</div> 
