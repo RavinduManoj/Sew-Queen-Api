@@ -16,12 +16,11 @@
 ***
 <h2 aline="center"> Site Screenshots </h2>
 
+<div align="center">
+ <a href="#"><img width="45%" src="Screenshot_20220115_201252.jpg"></a>
+<a href="#"><img width="45%" src="Screenshot_20220115_201330.jpg"></a></div>
 
+***
 <div align="center">
-<a href="#"><img width="50%" src="Screenshot_20220115_201252.jpg"></a></div>
-<div align="center">
-<a href="#"><img width="50%" src="Screenshot_20220115_201330.jpg"></a></div>
-<div align="center">
-<a href="#"><img width="50%" src="Screenshot_20220115_201336.jpg"></a></div>
-<div align="center">
-<a href="#"><img width="50%" src="Screenshot_20220115_202224.jpgg"></a></div>
+<a href="#"><img width="45%" src="Screenshot_20220115_201336.jpg"></a>
+<a href="#"><img width="45%" src="Screenshot_20220115_202224.jpg"></a></div>
